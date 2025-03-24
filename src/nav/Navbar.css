@@ -1,0 +1,13 @@
+ul li {
+    list-style-type: none;
+}
+.navbar {
+    display: flex;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+}
+.navbar-item {
+    padding: 1%;
+    border: 2px solid;
+}
